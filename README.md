@@ -1,10 +1,7 @@
-<div align="center" style="padding: 20px; border-radius: 15px; background: linear-gradient(145deg, #f5d5e8, #caf0f8);">
-    Hola, soy Alejandro Romero ⛄
+<div align="center">
+  <img src="./img/pixel-art-fogata.gif" width="150" alt="pixel fogata" />
+  <h1 style="font-weight: bold;">¡Hola! Soy <span style="color:#6C63FF;">Alejandro Romero</span> 💻</h1>
 </div>
-
-<p align="center">
-  <img src="./img/pixel-art-fogata.gif"/>
-</p>
 
 ---
 
