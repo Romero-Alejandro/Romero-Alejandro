@@ -2,6 +2,10 @@
     Hola, soy Alejandro Romero ⛄
 </div>
 
+<p align="center">
+  <img src="./img/pixel-art-fogata.gif"/>
+</p>
+
 ---
 
 <p align="center">
