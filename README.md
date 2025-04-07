@@ -1,5 +1,5 @@
 <div align="center" style="padding: 20px; border-radius: 15px; background: linear-gradient(145deg, #f5d5e8, #caf0f8);">
-  #Hola, soy Alejandro Romero 🐾
+    Hola, soy Alejandro Romero 🐾
 </div>
 
 ---
