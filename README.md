@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
+### Tech Stack & Tools
 
 | Category | Technologies & Tools |
 | :--- | :--- |
